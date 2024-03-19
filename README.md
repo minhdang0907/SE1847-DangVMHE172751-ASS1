@@ -1,5 +1,5 @@
 # SE1847-DangVMHE172751-ASS1
-Project Web bằng Java
+# Apple Store
 Giới thiệu
 Đây là một project được phát triển bằng ngôn ngữ lập trình Java, tập trung vào việc xây dựng một ứng dụng web đa năng. 
 
